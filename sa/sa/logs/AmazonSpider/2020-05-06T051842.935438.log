@@ -1,0 +1,87 @@
+2020-05-06 05:18:51 [scrapy] DEBUG: Crawled (200) <GET https://www.amazon.com/Dove-Beauty-Bar-Sensitive-Skin/dp/B005HO0AR2/ref=sr_1_1?dchild=1&keywords=Soap&qid=1588724321&sr=8-1> (referer: None)
+2020-05-06 05:18:52 [scrapy] DEBUG: Scraped from <200 https://www.amazon.com/Dove-Beauty-Bar-Sensitive-Skin/dp/B005HO0AR2/ref=sr_1_1?dchild=1&keywords=Soap&qid=1588724321&sr=8-1>
+{'comments': ['A total waste of money. I ignored the reviews about the “bad '
+              'smell” thinking I would get a good batch and was wrong. Thanks '
+              'to this seller I’m never going to purchase soap bars from '
+              'Amazon again. I’m sticking with Walmart or Sam’s Club, etc. '
+              'When I received these Dove soap bars, they smelled nothing like '
+              'Dove. I have been using Dove products for years and never had a '
+              'problem. These soap bars smelled of filth! It was a filthy '
+              'nasty stinge to every single one of them. I opened one thinking '
+              'maybe the smell won’t linger on the skin after some lathering '
+              'with water, NOPE! It made my hands stink of a strong disgusting '
+              'mold-like filth, gosh it’s so hard to explain but it was '
+              'terrible! If you feel like wasting your money and finding out '
+              'for yourself, go right ahead. I’m donating these and purchasing '
+              'my Dove products from trusted stores. I’m so disappointed, this '
+              'seller lost all credibility with not only me but other buyers '
+              'as well— what a waste of money. What in the world could '
+              'possibly make soap smell like that?! Never again.',
+              'My family members love Dove products but the last bars I bought '
+              'on here...had a horrible smell (puke odor). My daughter took a '
+              'shower and came out smelling horrible we went through all the '
+              'products she used and it came down to the dove bar soap.... so '
+              'I opened all boxes...each one smelled so bad.',
+              "I'm hoping it was a bad batch only. I will now just buy in "
+              'store so I can smell them first.',
+              "The boxes match *exactly* with the Dove soap I've been using "
+              'for years, but the soap I received had a strong scent to it '
+              "that is not present in the soap I've been using.  I hate the "
+              "smell, so I'll donate it and go back to buying from the grocery "
+              "store so I can be sure I'm getting what I want.",
+              'This came in a box of 8x2 and smelled absolutely nothing like '
+              'the original product.  As you can see by many other reviews '
+              'this is a common theme with this particular product.  Amazon '
+              'you need to pull this listing and do a serious inventory check '
+              'on where these are coming from and find the source of the '
+              'issue.',
+              "DO NOT BUY thinking you will get real product. Don't even "
+              'chance it.',
+              'I think this product is a fake. It has a terrible chemical '
+              'odor. The bar also has a strange texture. It’s either fake or '
+              'bad!',
+              "This product doesn't seem to the same as original Dove. It "
+              "doesn't have the same aroma and cleansing affect as the "
+              'original. Even the brand marking is so imperfect which makes '
+              "you think if this is an aftermarket version! I wouldn't "
+              'recommend it.',
+              'Great soap for someone who is allergic to the world.',
+              'I pretty much break out in hives from anything, this is safe '
+              "for me, and doesn't leave my skin feeling dry and itchy! Been a "
+              'loyal customer for years!',
+              'I just got this order today and I opened the box a  Weird smell '
+              'come out and smells so bad not like the original Soap smell , I '
+              'believe this bar are fake. I will send it back',
+              'El jabón es una recomendación médica para el cuidado de la piel '
+              'de mi hijo',
+              'The perfect soap for dry and sensitive skin.',
+              'Great for sensitive skin.  Good price and fast shipping.',
+              'Had ordered for a family friend. They are happy with the '
+              'product'],
+ 'img': 'data:image/jpeg;base64,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',
+ 'item_name': 'Dove Beauty Bar Gently Cleanses and Nourishes Sensitive Skin '
+              'Effectively Washes Away Bacteria While Nourishing Your Skin '
+              '3.75 oz 16 Bars',
+ 'price': '$15.99'}
+2020-05-06 05:18:52 [scrapy] INFO: Closing spider (finished)
+2020-05-06 05:18:52 [scrapy] INFO: Dumping Scrapy stats:
+{'downloader/request_bytes': 389,
+ 'downloader/request_count': 1,
+ 'downloader/request_method_count/GET': 1,
+ 'downloader/response_bytes': 276802,
+ 'downloader/response_count': 1,
+ 'downloader/response_status_count/200': 1,
+ 'elapsed_time_seconds': 3.951217,
+ 'finish_reason': 'finished',
+ 'finish_time': datetime.datetime(2020, 5, 6, 0, 18, 52, 74748),
+ 'item_scraped_count': 1,
+ 'log_count/DEBUG': 3,
+ 'log_count/INFO': 7,
+ 'log_count/WARNING': 45,
+ 'response_received_count': 1,
+ 'scheduler/dequeued': 1,
+ 'scheduler/dequeued/memory': 1,
+ 'scheduler/enqueued': 1,
+ 'scheduler/enqueued/memory': 1,
+ 'start_time': datetime.datetime(2020, 5, 6, 0, 18, 48, 123531)}
+2020-05-06 05:18:52 [scrapy] INFO: Spider closed (finished)

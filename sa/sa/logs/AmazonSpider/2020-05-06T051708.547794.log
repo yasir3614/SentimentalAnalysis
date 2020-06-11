@@ -1,0 +1,34 @@
+2020-05-06 05:17:15 [scrapy] DEBUG: Crawled (200) <GET https://www.amazon.com/Fabric-Cover-Mobile-Inches-Colors/dp/B07QFZ22FY/ref=sr_1_1?dchild=1&keywords=mobile+cover&qid=1588724222&sr=8-1> (referer: None)
+2020-05-06 05:17:15 [scrapy] DEBUG: Scraped from <200 https://www.amazon.com/Fabric-Cover-Mobile-Inches-Colors/dp/B07QFZ22FY/ref=sr_1_1?dchild=1&keywords=mobile+cover&qid=1588724222&sr=8-1>
+{'comments': ['\xa0I thought this sleeve would have a little more sheen to it. '
+              'It is a matte fabric. It’s ok enough that I’m too lazy to '
+              'return it, but I was really hoping for something a tad bit '
+              'brighter. The picture looks like the fabric has a little more '
+              'radiance.',
+              'As described:)'],
+ 'img': 'data:image/jpeg;base64,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',
+ 'item_name': 'Fabric Cover for Crib Mobile Arm 39.5 Inches DIY Baby Mobile, '
+              'Many Colors (Pink)',
+ 'price': '$13.99'}
+2020-05-06 05:17:15 [scrapy] INFO: Closing spider (finished)
+2020-05-06 05:17:15 [scrapy] INFO: Dumping Scrapy stats:
+{'downloader/request_bytes': 390,
+ 'downloader/request_count': 1,
+ 'downloader/request_method_count/GET': 1,
+ 'downloader/response_bytes': 259782,
+ 'downloader/response_count': 1,
+ 'downloader/response_status_count/200': 1,
+ 'elapsed_time_seconds': 2.387963,
+ 'finish_reason': 'finished',
+ 'finish_time': datetime.datetime(2020, 5, 6, 0, 17, 15, 380870),
+ 'item_scraped_count': 1,
+ 'log_count/DEBUG': 3,
+ 'log_count/INFO': 7,
+ 'log_count/WARNING': 45,
+ 'response_received_count': 1,
+ 'scheduler/dequeued': 1,
+ 'scheduler/dequeued/memory': 1,
+ 'scheduler/enqueued': 1,
+ 'scheduler/enqueued/memory': 1,
+ 'start_time': datetime.datetime(2020, 5, 6, 0, 17, 12, 992907)}
+2020-05-06 05:17:15 [scrapy] INFO: Spider closed (finished)

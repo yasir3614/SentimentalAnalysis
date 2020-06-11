@@ -1,0 +1,48 @@
+2020-05-06 03:04:09 [scrapy] DEBUG: Crawled (200) <GET https://www.amazon.com/Glenna-Jean-Cottage-Collection-Willow/dp/B01N43MH1E/ref=sxin_0_ac_d_rm?ac_md=0-0-bW9iaWxlIGNvdmVy-ac_d_rm&cv_ct_cx=mobile+cover&dchild=1&keywords=mobile+cover&pd_rd_i=B01N43MH1E&pd_rd_r=ab10ef0f-2af5-47b5-b17c-5fcc3637bdc9&pd_rd_w=ACj4v&pd_rd_wg=QEuvi&pf_rd_p=de19e82a-2d83-4ae8-9f5c-212586b8b9a0&pf_rd_r=YQGCHKYKWJNVEHCJH5D5&psc=1&qid=1585033497&sr=1-1-12d4272d-8adb-4121-8624-135149aa9081> (referer: None)
+2020-05-06 03:04:10 [scrapy] DEBUG: Scraped from <200 https://www.amazon.com/Glenna-Jean-Cottage-Collection-Willow/dp/B01N43MH1E/ref=sxin_0_ac_d_rm?ac_md=0-0-bW9iaWxlIGNvdmVy-ac_d_rm&cv_ct_cx=mobile+cover&dchild=1&keywords=mobile+cover&pd_rd_i=B01N43MH1E&pd_rd_r=ab10ef0f-2af5-47b5-b17c-5fcc3637bdc9&pd_rd_w=ACj4v&pd_rd_wg=QEuvi&pf_rd_p=de19e82a-2d83-4ae8-9f5c-212586b8b9a0&pf_rd_r=YQGCHKYKWJNVEHCJH5D5&psc=1&qid=1585033497&sr=1-1-12d4272d-8adb-4121-8624-135149aa9081>
+{'comments': ['A bit over priced for a simple piece of white fabric. The photo '
+              'of the product depicts a satin like sheen. This has no sheen. '
+              "It's simply a matte white. Inside the packaging, there were "
+              "several long black hairs that had been left on the product I'm "
+              'assuming from manufacturing. A little quality control could be '
+              'beneficial to avoid that in the future. That being said, it '
+              "covers the mobile arm nicely and doesn't distract from the rest "
+              'of our decor.',
+              'Wouldve worked perfect but the 1 that came with my mobile wasnt '
+              'as bright patterned as the picture showed so I sent this one '
+              'back otherwise I wouldve kept it',
+              'This was too expensive for what you got. It’s juts a little '
+              'fabric sowed together.',
+              'Pretty worked perfect',
+              'Nice cover for the ugly plastic mobile arm',
+              'I am 89 years old and walking is difficult as my balance is not '
+              'stable. I decided that a cane would be a great help and that it '
+              'was.. People ask me where did I find such a pretty cane. If I '
+              'take it out of my car, I am very careful where I leave it. I '
+              'love it.',
+              'Great finishing touch!!!'],
+ 'img': 'data:image/jpeg;base64,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',
+ 'item_name': 'Glenna Jean Cottage Collection Willow Mobile Arm Cover, White',
+ 'price': '$22.37'}
+2020-05-06 03:04:10 [scrapy] INFO: Closing spider (finished)
+2020-05-06 03:04:10 [scrapy] INFO: Dumping Scrapy stats:
+{'downloader/request_bytes': 672,
+ 'downloader/request_count': 1,
+ 'downloader/request_method_count/GET': 1,
+ 'downloader/response_bytes': 252124,
+ 'downloader/response_count': 1,
+ 'downloader/response_status_count/200': 1,
+ 'elapsed_time_seconds': 1.849057,
+ 'finish_reason': 'finished',
+ 'finish_time': datetime.datetime(2020, 5, 5, 22, 4, 10, 16492),
+ 'item_scraped_count': 1,
+ 'log_count/DEBUG': 3,
+ 'log_count/INFO': 7,
+ 'log_count/WARNING': 45,
+ 'response_received_count': 1,
+ 'scheduler/dequeued': 1,
+ 'scheduler/dequeued/memory': 1,
+ 'scheduler/enqueued': 1,
+ 'scheduler/enqueued/memory': 1,
+ 'start_time': datetime.datetime(2020, 5, 5, 22, 4, 8, 167435)}
+2020-05-06 03:04:10 [scrapy] INFO: Spider closed (finished)

@@ -1,0 +1,53 @@
+2020-05-06 05:07:26 [scrapy] DEBUG: Crawled (200) <GET https://www.amazon.com/Anker-Charger-PowerPort-iPhone-Galaxy/dp/B00P936188/ref=gbps_img_m-9_475e_6d8dae02?smid=A294P4X9EWVXLJ&pf_rd_p=5d86def2-ec10-4364-9008-8fbccf30475e&pf_rd_s=merchandised-search-9&pf_rd_t=101&pf_rd_i=15529609011&pf_rd_m=ATVPDKIKX0DER&pf_rd_r=7CZF0KCBGARZNJ9TTKSW> (referer: None)
+2020-05-06 05:07:26 [scrapy] ERROR: Spider error processing <GET https://www.amazon.com/Anker-Charger-PowerPort-iPhone-Galaxy/dp/B00P936188/ref=gbps_img_m-9_475e_6d8dae02?smid=A294P4X9EWVXLJ&pf_rd_p=5d86def2-ec10-4364-9008-8fbccf30475e&pf_rd_s=merchandised-search-9&pf_rd_t=101&pf_rd_i=15529609011&pf_rd_m=ATVPDKIKX0DER&pf_rd_r=7CZF0KCBGARZNJ9TTKSW> (referer: None)
+Traceback (most recent call last):
+  File "c:\users\muhammad yasir javed\appdata\local\programs\python\python37\lib\site-packages\scrapy\utils\defer.py", line 117, in iter_errback
+    yield next(it)
+  File "c:\users\muhammad yasir javed\appdata\local\programs\python\python37\lib\site-packages\scrapy\utils\python.py", line 345, in __next__
+    return next(self.data)
+  File "c:\users\muhammad yasir javed\appdata\local\programs\python\python37\lib\site-packages\scrapy\utils\python.py", line 345, in __next__
+    return next(self.data)
+  File "c:\users\muhammad yasir javed\appdata\local\programs\python\python37\lib\site-packages\scrapy\core\spidermw.py", line 64, in _evaluate_iterable
+    for r in iterable:
+  File "c:\users\muhammad yasir javed\appdata\local\programs\python\python37\lib\site-packages\scrapy\spidermiddlewares\offsite.py", line 29, in process_spider_output
+    for x in result:
+  File "c:\users\muhammad yasir javed\appdata\local\programs\python\python37\lib\site-packages\scrapy\core\spidermw.py", line 64, in _evaluate_iterable
+    for r in iterable:
+  File "c:\users\muhammad yasir javed\appdata\local\programs\python\python37\lib\site-packages\scrapy\spidermiddlewares\referer.py", line 338, in <genexpr>
+    return (_set_referer(r) for r in result or ())
+  File "c:\users\muhammad yasir javed\appdata\local\programs\python\python37\lib\site-packages\scrapy\core\spidermw.py", line 64, in _evaluate_iterable
+    for r in iterable:
+  File "c:\users\muhammad yasir javed\appdata\local\programs\python\python37\lib\site-packages\scrapy\spidermiddlewares\urllength.py", line 37, in <genexpr>
+    return (r for r in result or () if _filter(r))
+  File "c:\users\muhammad yasir javed\appdata\local\programs\python\python37\lib\site-packages\scrapy\core\spidermw.py", line 64, in _evaluate_iterable
+    for r in iterable:
+  File "c:\users\muhammad yasir javed\appdata\local\programs\python\python37\lib\site-packages\scrapy\spidermiddlewares\depth.py", line 58, in <genexpr>
+    return (r for r in result or () if _filter(r))
+  File "c:\users\muhammad yasir javed\appdata\local\programs\python\python37\lib\site-packages\scrapy\core\spidermw.py", line 64, in _evaluate_iterable
+    for r in iterable:
+  File "D:\Semester Work\Final Semester\AI\SentimentalAnalysis - Copy\SentimentalAnalysis\sa\sa\spiders\myspider.py", line 39, in parse
+    items['price'] = price[0]
+IndexError: list index out of range
+2020-05-06 05:07:26 [scrapy] INFO: Closing spider (finished)
+2020-05-06 05:07:26 [scrapy] INFO: Dumping Scrapy stats:
+{'downloader/request_bytes': 548,
+ 'downloader/request_count': 1,
+ 'downloader/request_method_count/GET': 1,
+ 'downloader/response_bytes': 295053,
+ 'downloader/response_count': 1,
+ 'downloader/response_status_count/200': 1,
+ 'elapsed_time_seconds': 2.607061,
+ 'finish_reason': 'finished',
+ 'finish_time': datetime.datetime(2020, 5, 6, 0, 7, 26, 442580),
+ 'log_count/DEBUG': 2,
+ 'log_count/ERROR': 1,
+ 'log_count/INFO': 7,
+ 'log_count/WARNING': 45,
+ 'response_received_count': 1,
+ 'scheduler/dequeued': 1,
+ 'scheduler/dequeued/memory': 1,
+ 'scheduler/enqueued': 1,
+ 'scheduler/enqueued/memory': 1,
+ 'spider_exceptions/IndexError': 1,
+ 'start_time': datetime.datetime(2020, 5, 6, 0, 7, 23, 835519)}
+2020-05-06 05:07:26 [scrapy] INFO: Spider closed (finished)

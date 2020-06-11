@@ -1,0 +1,39 @@
+2020-05-06 04:29:42 [scrapy] DEBUG: Retrying <GET https://www.amazon.com/Glenna-Jean-Cottage-Collection-Willow/dp/B01N43MH1E/ref=sxin_0_ac_d_rm?ac_md=0-0-bW9iaWxlIGNvdmVy-ac_d_rm&cv_ct_cx=mobile+cover&dchild=1&keywords=mobile+cover&pd_rd_i=B01N43MH1E&pd_rd_r=ab10ef0f-2af5-47b5-b17c-5fcc3637bdc9&pd_rd_w=ACj4v&pd_rd_wg=QEuvi&pf_rd_p=de19e82a-2d83-4ae8-9f5c-212586b8b9a0&pf_rd_r=YQGCHKYKWJNVEHCJH5D5&psc=1&qid=1585033497&sr=1-1-12d4272d-8adb-4121-8624-135149aa9081> (failed 1 times): DNS lookup failed: no results for hostname lookup: www.amazon.com.
+2020-05-06 04:29:42 [scrapy] DEBUG: Retrying <GET https://www.amazon.com/Glenna-Jean-Cottage-Collection-Willow/dp/B01N43MH1E/ref=sxin_0_ac_d_rm?ac_md=0-0-bW9iaWxlIGNvdmVy-ac_d_rm&cv_ct_cx=mobile+cover&dchild=1&keywords=mobile+cover&pd_rd_i=B01N43MH1E&pd_rd_r=ab10ef0f-2af5-47b5-b17c-5fcc3637bdc9&pd_rd_w=ACj4v&pd_rd_wg=QEuvi&pf_rd_p=de19e82a-2d83-4ae8-9f5c-212586b8b9a0&pf_rd_r=YQGCHKYKWJNVEHCJH5D5&psc=1&qid=1585033497&sr=1-1-12d4272d-8adb-4121-8624-135149aa9081> (failed 2 times): DNS lookup failed: no results for hostname lookup: www.amazon.com.
+2020-05-06 04:29:42 [scrapy] ERROR: Gave up retrying <GET https://www.amazon.com/Glenna-Jean-Cottage-Collection-Willow/dp/B01N43MH1E/ref=sxin_0_ac_d_rm?ac_md=0-0-bW9iaWxlIGNvdmVy-ac_d_rm&cv_ct_cx=mobile+cover&dchild=1&keywords=mobile+cover&pd_rd_i=B01N43MH1E&pd_rd_r=ab10ef0f-2af5-47b5-b17c-5fcc3637bdc9&pd_rd_w=ACj4v&pd_rd_wg=QEuvi&pf_rd_p=de19e82a-2d83-4ae8-9f5c-212586b8b9a0&pf_rd_r=YQGCHKYKWJNVEHCJH5D5&psc=1&qid=1585033497&sr=1-1-12d4272d-8adb-4121-8624-135149aa9081> (failed 3 times): DNS lookup failed: no results for hostname lookup: www.amazon.com.
+2020-05-06 04:29:42 [scrapy] ERROR: Error downloading <GET https://www.amazon.com/Glenna-Jean-Cottage-Collection-Willow/dp/B01N43MH1E/ref=sxin_0_ac_d_rm?ac_md=0-0-bW9iaWxlIGNvdmVy-ac_d_rm&cv_ct_cx=mobile+cover&dchild=1&keywords=mobile+cover&pd_rd_i=B01N43MH1E&pd_rd_r=ab10ef0f-2af5-47b5-b17c-5fcc3637bdc9&pd_rd_w=ACj4v&pd_rd_wg=QEuvi&pf_rd_p=de19e82a-2d83-4ae8-9f5c-212586b8b9a0&pf_rd_r=YQGCHKYKWJNVEHCJH5D5&psc=1&qid=1585033497&sr=1-1-12d4272d-8adb-4121-8624-135149aa9081>
+Traceback (most recent call last):
+  File "c:\users\muhammad yasir javed\appdata\local\programs\python\python37\lib\site-packages\twisted\internet\defer.py", line 1416, in _inlineCallbacks
+    result = result.throwExceptionIntoGenerator(g)
+  File "c:\users\muhammad yasir javed\appdata\local\programs\python\python37\lib\site-packages\twisted\python\failure.py", line 512, in throwExceptionIntoGenerator
+    return g.throw(self.type, self.value, self.tb)
+  File "c:\users\muhammad yasir javed\appdata\local\programs\python\python37\lib\site-packages\scrapy\core\downloader\middleware.py", line 42, in process_request
+    defer.returnValue((yield download_func(request=request, spider=spider)))
+  File "c:\users\muhammad yasir javed\appdata\local\programs\python\python37\lib\site-packages\twisted\internet\defer.py", line 654, in _runCallbacks
+    current.result = callback(current.result, *args, **kw)
+  File "c:\users\muhammad yasir javed\appdata\local\programs\python\python37\lib\site-packages\twisted\internet\endpoints.py", line 982, in startConnectionAttempts
+    "no results for hostname lookup: {}".format(self._hostStr)
+twisted.internet.error.DNSLookupError: DNS lookup failed: no results for hostname lookup: www.amazon.com.
+2020-05-06 04:29:42 [scrapy] INFO: Closing spider (finished)
+2020-05-06 04:29:42 [scrapy] INFO: Dumping Scrapy stats:
+{'downloader/exception_count': 3,
+ 'downloader/exception_type_count/twisted.internet.error.DNSLookupError': 3,
+ 'downloader/request_bytes': 2055,
+ 'downloader/request_count': 3,
+ 'downloader/request_method_count/GET': 3,
+ 'elapsed_time_seconds': 0.261304,
+ 'finish_reason': 'finished',
+ 'finish_time': datetime.datetime(2020, 5, 5, 23, 29, 42, 943159),
+ 'log_count/DEBUG': 5,
+ 'log_count/ERROR': 2,
+ 'log_count/INFO': 7,
+ 'log_count/WARNING': 45,
+ 'retry/count': 2,
+ 'retry/max_reached': 1,
+ 'retry/reason_count/twisted.internet.error.DNSLookupError': 2,
+ 'scheduler/dequeued': 3,
+ 'scheduler/dequeued/memory': 3,
+ 'scheduler/enqueued': 3,
+ 'scheduler/enqueued/memory': 3,
+ 'start_time': datetime.datetime(2020, 5, 5, 23, 29, 42, 681855)}
+2020-05-06 04:29:42 [scrapy] INFO: Spider closed (finished)

@@ -1,0 +1,351 @@
+2020-06-11 23:04:22 [scrapy] DEBUG: Crawled (200) <GET https://www.amazon.com/Razer-Kraken-Tournament-Gel-Infused-Cushions/dp/B07G5TP4BN/ref=sr_1_1_sspa?dchild=1&keywords=gaming+headset&qid=1591898492&sr=8-1-spons&psc=1&spLa=ZW5jcnlwdGVkUXVhbGlmaWVyPUExQlpXRUlSRTJMRlhTJmVuY3J5cHRlZElkPUEwNTU0ODE4M0E5TUhRSjhSMVNCWCZlbmNyeXB0ZWRBZElkPUEwMTg2NDkzMTg2Tk85ODkxME1LVCZ3aWRnZXROYW1lPXNwX2F0ZiZhY3Rpb249Y2xpY2tSZWRpcmVjdCZkb05vdExvZ0NsaWNrPXRydWU=> (referer: None)
+2020-06-11 23:04:23 [scrapy] DEBUG: Scraped from <200 https://www.amazon.com/Razer-Kraken-Tournament-Gel-Infused-Cushions/dp/B07G5TP4BN/ref=sr_1_1_sspa?dchild=1&keywords=gaming+headset&qid=1591898492&sr=8-1-spons&psc=1&spLa=ZW5jcnlwdGVkUXVhbGlmaWVyPUExQlpXRUlSRTJMRlhTJmVuY3J5cHRlZElkPUEwNTU0ODE4M0E5TUhRSjhSMVNCWCZlbmNyeXB0ZWRBZElkPUEwMTg2NDkzMTg2Tk85ODkxME1LVCZ3aWRnZXROYW1lPXNwX2F0ZiZhY3Rpb249Y2xpY2tSZWRpcmVjdCZkb05vdExvZ0NsaWNrPXRydWU=>
+{'comments': ['I love the product. It works very well on my Xbox, however the '
+              'headline for product is misleading. The USB audio box(THX) will '
+              'not work on Xbox. You will need a separate adapter that plugs '
+              'directly into your controller for the 3.5mm connection. I was '
+              'under the impression that this headset operated like the Astro '
+              'Mixamp does where its a USB to mixamp, then mixamp to headset, '
+              'giving you voice and game audio control. The headset feels '
+              'great and works very well. I just write this so no one else '
+              'will feel mislead.',
+              "Because I'm usually listening to music on my phone when I'm "
+              'out-and-about, I have a ton of earbuds, so this is the first '
+              "set of headphones I've ever owned, and I can't compare against "
+              'other headphones, but I love these. I wanted to get one for my '
+              'computer because I stay up late to work and need my music or '
+              "movies and don't want to wake my family.",
+              'You do have to use the USB audio controller to get spatial '
+              'audio by THX (where available). Otherwise , the 3.5mm jack '
+              'directly inline is only going to give you stereo, so you '
+              "wouldn't get 360 audio plugging this into your phone, for "
+              "example. I don't think the spatial audio works on gaming "
+              'consoles, just on your PC.',
+              "Again, as I haven't owned any other headsets, I don't know how "
+              'standard the comfort might be, but these are super comfortable. '
+              "The ear cushions I've tried out a bunch in stores don't fit my "
+              "ears, and I don't think I have large ears. I wasn't sure about "
+              "these since they're round (usually oval ear cushions fit "
+              "better), but they completely cover my ears. I've tried previous "
+              "Krakens in store that didn't fit me for some reason, so perhaps "
+              'they changed something with the size of the cups here, not '
+              'sure. I wear glasses, and the "clamp" of the headphone aren\'t '
+              "too tight, so I don't feel the arms of my glasses pinching me. "
+              'They are snug enough for desktop use, not enough for street use '
+              "if you're gonna be dancing wearing these or headbanging as they "
+              'will slide forward or backward with moderate head tilt.',
+              'The ear cushions do feel cool over extended use. I usually wear '
+              "these for about 3-4 hours at night, and I don't collect any "
+              'sweat on them. The leatherette is super smooth and feels '
+              'luxurious.',
+              'They are not noise canceling or noise blocking. As stated '
+              "above, they don't fit so tightly that you can't hear your "
+              "environment when there's no audio, but with a little bit of "
+              'audio, any noise in your environment is easily drowned out.',
+              'I like the convenient manual volume control on the cord so that '
+              "I don't have to keep adjusting volume on my computer for "
+              "different applications or different media. I'm not a gamer, so "
+              'I usually leave my mic off (again, convenient integrated off '
+              "switch), but it's nice for teleconferencing with work.",
+              "Nope, these don't light up like other Razer products.",
+              'You can adjust the sensitivity of noise from the mic in the '
+              'Razer Synapse 3 Configuration Tool, so you can tune out the '
+              'keyboard clicking if desired. You can set audio equalizer, '
+              'adjust mic volume, sensitivity, normalize volume, reduce '
+              'ambient noise, clarify voice, etc.',
+              'This is the first good gaming headset ive bought, the first '
+              'were sum cheap $25 turtle beach headsets from gamestop, '
+              'returned those the next day. Then i used my apple earphones '
+              'until i did enough research and found these. I play call of '
+              'duty black ops4 and other C.O.D games and its vital to have a '
+              'good headset, you can hear foot steps directionally from where '
+              'theyre coming from. Its really a must have for playing the game '
+              'to your best potential. My K/D went up and overall all '
+              'experience of the game feels brand new, i had the game 3 months '
+              'before buying my headset and its a new experience. I recommend '
+              'spending atleast $100 bux on a good headset and this is the one '
+              'to get. It has a retractable mic and very good quality, i '
+              'bought 2 and gave my homie one for christmas and his voice '
+              'sounds the same in person as it does on the mic, its not high '
+              'pitched or dry nasal sounding. I get startled everytime i get '
+              'shot unexpectedly because the quality of sound depth is so '
+              'good. If your shooting close quarters itll sound loud and if '
+              'theres shooting in the distance youll be able to hear it just '
+              'enough and locate it directionally. Also the headset looks '
+              'pretty hard its all black, and they have cooling gel ear cup '
+              'cushions that actually feel cool to the touch and very '
+              'comfortable. The headset is overall very comfortable and has a '
+              'volume and mute on the headset cord, havent used the THX '
+              'spatial sound mode but i cant imagine the sound quality getting '
+              'better honestly. You wont regret getting this headset '
+              'guarenteed',
+              'Console owners!!!(PS4 and Xbox One) Be advised, the THX '
+              'function does not work for consoles.  It is only for PC users.  '
+              'So if you were like me and were debating between these and the '
+              "Pro v2's, just get the v2's.  Other than that, these headphones "
+              'are great.  They almost sound as good as my Denon AHD2000 hi fi '
+              'headphones.  Highly recommend for those not needing wireless or '
+              '7.1',
+              'My husband bought this headset at Best Buy, and I bought the '
+              'next step down of the same brand. Once I tried his and used the '
+              'remote, I was sold. Best Buy was out of stock, so I came to '
+              'Amazon. The mic retracts into the headset when not in use, '
+              'which is great to help prevent damage. It sits very comfortably '
+              'on my head and ears. Some gaming headsets hurt your head after '
+              'awhile, but after a 3 hour raid, I felt no discomfort. The '
+              'sound is excellent, and my guildies said my voice came over '
+              'perfectly. Very happy with this product!',
+              'Came in today and was excited to use it. Says its compatible '
+              'with xbox one but fail to tell you that you need an adapter to '
+              'play it. Thought it was the one that connected directly to the '
+              'xbox one.according to the description. So if you get this model '
+              "you'll have to buy the $50 adapter and lose sound quality.",
+              "Feel mislead. Can't use it. $125 now nearly $200 if I get the "
+              'adapter. Should have just went to walmart.',
+              'Amazing would highly recommend to any gamer',
+              'Tried this headset for Xbox One and PC.',
+              'Positives:',
+              '-Ear cushions are nice and soft and have a cooling gel inside '
+              'that really does help',
+              '-Sound was good for Xbox One and was very easy to set up, just '
+              'plug in the cable and good to go',
+              '-Mic is also pretty good on this headset especially when '
+              'compared to other razer products',
+              '-Seems very durable and flexible, I dont see the band ever '
+              'breaking under normal use',
+              '-Build quality is nice with a mix of plastic and aluminum',
+              'Negatives:',
+              '-Razer synapse is a big problem, have to manually activate THX '
+              'for each app that you go into.',
+              '-THX for this headset is a joke, most of the time it doesnt '
+              'even work. It will randomly turn off or just not turn on to '
+              'begin with and in order to fix the issue you have to restart '
+              'your PC. When it does work it makes the sound quality a lot '
+              'worse, instead of being able to pinpoint a particular sound it '
+              'just muffles everything together into one big mess',
+              '-Cannot use the THX adapter with Xbox as it is USB powered and '
+              'Xbox does not support USB headsets, you have to use the normal '
+              "3.5mm cable that's built into the headset.",
+              '-Sound quality in general is just not the greatest, the bass is '
+              "good but you dont get that clear mids and hi's that you can get "
+              'with other headsets around this price',
+              '-Headband slightly starts to hurt head after an hour or so of '
+              'use',
+              'Getting this at just under $100 i was amazed of the quality of '
+              'headset. There is no RGB lighting but Razer made up for it with '
+              'a solid build metal frame and premium earcups. I was looking '
+              'for. Gaming headset with the biggest earcups since i have huge '
+              'ears. While not the biggest cups, these were sufficient and '
+              'comfortable. The material that touches your ear feels really '
+              'soft and premium, which allowed for prolonged use with little '
+              'discomfort (even with glasses). Kudos to razer for adding a '
+              'soundcard with this model, as it allows me to switch from pc to '
+              'ps4 easily. If the earcups had the ability to swivel, man this '
+              'headset would be hard to beat in terms of comfort and overall '
+              'construction.',
+              'I give this 4/5 in terms of sound quality just cause it is '
+              "exactly what you'd expect from a gaming headset. I like the "
+              'razer synapse software since you can play around and make your '
+              'own eq modes which is something that cant be done with corsair '
+              "and hyperx. For FPS gaming which is what i bought them for, i'd "
+              'say they are decent and will get the job done. I guess it might '
+              'be preference but comparing this headset to my open back 9500 '
+              'phillips i can pinpoint the location of the enemy much more '
+              'precisely because of the larger soundstage.',
+              'All in all for the price this headset is definitely worth',
+              'Very bassy, but pretty clear audio, synapse has EQ. Games sound '
+              'great. Mic is pretty clear, picks-up nicely without need to be '
+              'in my mouth.',
+              'The earpads are next level though. Nice and deep and made of '
+              "soft lush material. Some of the best I've ever worn.",
+              'Headband is nice and soft.',
+              'Excited to see how they hold up.',
+              "I don't know if it's a design flaw yet, or if I got a bad set "
+              "but the audio is incredibly quiet at full volume. It's "
+              "disappointing as I'll probably return them - because otherwise "
+              'I would have really liked them. They are super comfy and I do '
+              'like the usb controller features. But when music is not able to '
+              'even drown out background noise or provide clear sound during '
+              "gaming it's unlikely to stay.",
+              'Me encantaron estos audifonos son muy comodos y no lastiman y '
+              'gracias a que las almoadillas tienen gel las orejas no sudan '
+              'tan rapido como con cualquier otros audifonos, bienen muy bien '
+              'empaquetados es su caja para que no se dañen, el USB THX se '
+              'instalo sin bajar nada lo unico que tube que bajar para que '
+              'todo funcionara bien fue Synapse y todo lo demas se '
+              'autoconfiguro ya solo yo tube que configurar en el synapse fue '
+              'que programas usar el sonido 7.1 surround, el control thx en un '
+              'lado trae para subir o bajar los bajos y del otro lado trae '
+              'para controlar si quieres que se escuche mas el sonido de las '
+              'aplicaciones o el chat ya sea discord o alguna otra applicacion '
+              'parecida y tambien trae el boton para el spatial audio que es '
+              'el sonido 7.1 surround por si quieres desactivarlo '
+              'completamente o activarlo en las aplicaciones ya configuradas '
+              'en el synapse, por enfrente trae 3 botones, subir volumen, '
+              'bajar volumen y para silenciar el microfono, en la parte de '
+              'atras trae el numero de serie y para poder pegarlo en alguna '
+              'parte, el cable usb THX mide aprox 203cm y el cable de los '
+              'audifonos miden aprox 139cm, los audifonos se pueden extender '
+              'maximo 5.5cm de cada lado.',
+              'Lo unico malo que e encontrado despues de 9 dias de uso '
+              'continuo es que el cable de los audifonos es muy corto deberia '
+              'medir al menos otros 30cm, el microfono tiene sus desventajas '
+              'pero para chat normal funciona bien y mas si lo configuras bien '
+              'con la aplicacion synapse',
+              'I bought this headset to replace my old 5.1 surround USB and '
+              'the sound quality is so much better! They have some weight to '
+              'them which is good and they stay on my head well and feel nice '
+              'and cool. The ear cups are large enough that they don’t squish '
+              'my ears and that makes it really comfortable. But there was 2 '
+              'issues with setting it up.',
+              '1. Razer synapse 3 would not download properly and stopped '
+              'halfway through. I had to open windows firewall and create a '
+              'new pathway specifically for the synapse 3 download file and '
+              'allow it to pass so that it would download, then removed it '
+              'afterwards and the synapse program works fine.',
+              '2. The THX surround sound didn’t work for the past month I’ve '
+              'had them, but the fix was really easy. For some reason the USB '
+              'controller has a switch to raise game volume and lower chat, or '
+              'vice versa. I had them set on chat sound in the windows '
+              'playback options and the surround didn’t work. I then plugged '
+              'them in with the 3.5mm jack and oh woah, they sounded so much '
+              'better. So with the jack plugged into the controller you have '
+              'to select the speaker icon that says game ready not the headset '
+              'one that says earphones, and then raise the volume on the '
+              'controller for the game sounds and now surround sound works and '
+              'I can hear where shota are coming from, finally.',
+              'Once I got the issues fixed the headset works amazing, the '
+              'sound quality is insane and the controls work great, I just '
+              'don’t use the chat volume and I don’t know why Razer added this '
+              'feature when discord works fine over the regukar surround '
+              'sound.',
+              'I am giving this headset a one star review because it’s '
+              'description is fundamentally misleading.',
+              'You CANNOT use the volume/chat mixer OR the THX spatial audio '
+              'on Xbox one.',
+              'All you can do is plug in the regular audio cable into your '
+              'controller port and this headset becomes a overpriced, average '
+              '50mm stereo headset.',
+              '**With that said, the audio is still good, the headset is very '
+              'comfortable and the mic is average. The problem is if you’re an '
+              'Xbox one player, you lose all the functions that you’re paying '
+              'a premium price for.',
+              'For that reason I recommend you buy a different headset as you '
+              'can get superior sound from cheaper 50mm stereo headsets.',
+              'I am returning these, as the item is not as described, and '
+              'getting Turtle Beach Stealths.',
+              'First, I bought this item as new at Amazon. It came with a non '
+              'original sealing, the product was with the cables all messed '
+              'up, the protective plastic from the splitter and the USB cover '
+              'were removed. (see pictures attached). I had to spend some time '
+              "calling amazon and ask for a discount, since I don't wanted to "
+              'pay full price in a opened box item. They gave me 15% refund on '
+              'that. However, after testing the product for a while, I have '
+              'decided to return it.',
+              'PROS',
+              'The finish is good.',
+              'The metal body makes it very resistent.',
+              "It's very comfortable, it fits perfectly in the head.",
+              'The splitter makes things easier to connect via USB',
+              'It can be used on the PS4/Xbox',
+              'CONS',
+              'The audio is VERY low. After tweeking the settings in Windows '
+              'and in the Razer software, nothing really helps. The THX device '
+              "doesn't make a huge difference in the sound, it actually makes "
+              "the sound worse. Before someone comment that I didn't know how "
+              'to set up, I have to say, I work with audio editing for '
+              'podcasts. I had the all volumes at maximum and the audio was '
+              'still very very low.  That being said, if you like to listen '
+              "some music with a fair quality, don't even bother buying this "
+              'guy. Even the cheapest Logitech is way better than this headset '
+              'in terms of sound quality. I was expecting more for a $80 '
+              'dollars + tax product.',
+              'I knew Razer to have a certain reputation... a good one. This '
+              'headset appeared to tick all the right boxes and the initial '
+              'quality seemed excellent as it performed very well connected to '
+              'a PS4.',
+              'Fast forward 4 months: the microphone is dead. Tested on '
+              'multiple devices (PS4, PC, phone). And... of course this '
+              'happened three weeks after the warranty expired. I guess there '
+              'was a reason for being on sale. Very dissapointing.',
+              'This headset is amazing, especially the THX effect that '
+              'animates life out of games!',
+              'Unfortunately, I was in game once and suddenly got disconnected '
+              'from internet, the headset started buzzing so loud it startle '
+              'the hell out of me. I had to disconnect and connect it again '
+              "for that. I hope I don't face that kind of problems in the "
+              'future.',
+              'I purchased this headset for PC. It was comfortable. However, '
+              'the sound is too quiet. I was fighting with it for an hour '
+              'trying to get the sound just right, and when I finally did, the '
+              'headphones stopped working all together. I tried '
+              'troubleshooting with Razer itself, but that was useless as they '
+              'told me to try plugging it in better. Overall I am returning '
+              'the product for a full refund and going with a different brand.',
+              'If you want to fully enjoy THX Audio and some other features on '
+              'the headset (EQ, MIC..etc) you have to install and use Razer '
+              "Synapse 3.0. I've had nothing but issues with Synapse, so much "
+              'that I decided to return the headset.',
+              'The problem was that more than half of the headset features on '
+              'Synapse (THX option, EQ, MIC) would randomly stop working which '
+              'was frustrating as hell. Let me explain, in Synapse under the '
+              '"MIXER" tab you can select the audio output of each running '
+              "application (example: https://i.imgur.com/N6xA2wu.png). It's a "
+              "nice feature, the problem is that it doesn't work and would "
+              'randomly stop detecting any running applications (example: '
+              "https://i.imgur.com/l5kCO4o.png). That's not all, the "
+              '"ENHANCEMENT" tab sliders would also randomly stop working and '
+              'the worst of all the "Equalizer" sliders would also stop '
+              'working for no reasons where moving the sliders or changing '
+              'preset would do NOTHING.',
+              "I've tried unplugging the headset, I tried different USB port "
+              '(2.0 and 3.0), I tried re-installing Synapse, I made sure the '
+              '"Game" speaker was set as default, I\'ve tried everything. The '
+              'ONLY way to make the "MIXER" tab detect my applications or the '
+              '"Equalizer" to work again was to restart my computer, then it '
+              'would work for 10-15 minutes and then back to nothing. Very '
+              "frustrating. I've been using Razer software for a years, I "
+              'never had any issues but this is just god awful.',
+              'Also, the MIC sensitivity is a bit messed up, within the '
+              'Synapse applications the mic sound super good but then when you '
+              "get to record yourself in Windows it's super low and the "
+              'sensitivity is all messed up.',
+              'I also spoke with someone else who purchased this headset and '
+              "he's having the EXACT same issues as me (Mixer won't detect any "
+              'apps, EQ would randomly stop working..etc) so I suspect this '
+              "isn't such an isolated case...",
+              'When it works it pretty good though, but the software, yikes...',
+              "First 3 days of owning, but am IN LOVE. They're so light and "
+              'soft on my head, I can play way too long and still not get '
+              'weird sweaty ears. Sound is superb, microphone quality is great '
+              '(I know because I purchased a pair for my friends).',
+              "One thing of note is that they don't block out the sound of the "
+              "space you're in. I like this because it means I can use "
+              'speakers for game audio and headphones for party chat.'],
+ 'img': 'data:image/jpeg;base64,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',
+ 'item_name': 'Razer Kraken Tournament Edition THX 7.1 Surround Sound Gaming '
+              'Headset: Aluminum Frame - Retractable Noise Cancelling Mic - '
+              'USB DAC Included - For PC, PS4, Nintendo Switch - Classic Black',
+ 'price': '$73.99'}
+2020-06-11 23:04:23 [scrapy] INFO: Closing spider (finished)
+2020-06-11 23:04:23 [scrapy] INFO: Dumping Scrapy stats:
+{'downloader/request_bytes': 652,
+ 'downloader/request_count': 1,
+ 'downloader/request_method_count/GET': 1,
+ 'downloader/response_bytes': 327898,
+ 'downloader/response_count': 1,
+ 'downloader/response_status_count/200': 1,
+ 'elapsed_time_seconds': 4.859029,
+ 'finish_reason': 'finished',
+ 'finish_time': datetime.datetime(2020, 6, 11, 18, 4, 23, 782615),
+ 'item_scraped_count': 1,
+ 'log_count/DEBUG': 3,
+ 'log_count/INFO': 7,
+ 'log_count/WARNING': 45,
+ 'response_received_count': 1,
+ 'scheduler/dequeued': 1,
+ 'scheduler/dequeued/memory': 1,
+ 'scheduler/enqueued': 1,
+ 'scheduler/enqueued/memory': 1,
+ 'start_time': datetime.datetime(2020, 6, 11, 18, 4, 18, 923586)}
+2020-06-11 23:04:23 [scrapy] INFO: Spider closed (finished)
