@@ -1,0 +1,150 @@
+<!doctype html>
+<html>
+   <head>
+      <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/4.0.0/css/bootstrap.min.css" integrity="sha384-Gn5384xqQ1aoWXA+058RXPxPg6fy4IWvTNh0E263XmFcJlSAwiGgFAW/dAiS6JXm" crossorigin="anonymous">
+      <script src='https://cdnjs.cloudflare.com/ajax/libs/jquery/3.2.1/jquery.min.js'></script>
+      <script src='https://maxcdn.bootstrapcdn.com/bootstrap/4.0.0/js/bootstrap.min.js'></script>
+      <script type="text/javascript" src="https://www.gstatic.com/charts/loader.js"></script>
+      <link href="https://fonts.googleapis.com/css2?family=Montserrat:wght@100;200;300;500;700&display=swap" rel="stylesheet">
+
+   </head>
+   <style>
+      body {
+         font-family: 'Montserrat', sans-serif;
+      }
+      .tag {
+         font-size:1.2em;
+         font-weight: bold;
+         color:gray
+      }
+      #sentimentPos{
+         margin-top:0.5rem;
+         background-color : #50C878 ;
+         color:white;
+         text-transform: capitalize;
+         padding:1rem;
+         font-weight: bold;
+      }
+      #sentimentNeg{
+         margin-top:0.5rem;
+         background-color: #D61A3c;
+         color:white;
+         text-transform: capitalize;
+         padding:1rem;
+         font-weight: bold;
+      }
+      .comments_section {
+         margin: 0rem 5rem;
+         border: 1px solid gray;
+         box-shadow:aqua;
+         padding:2rem;
+      }
+
+      .comment {
+         margin-top:0.7rem;
+      }
+
+      .product{
+         border:1px solid gray;
+         margin:0rem 5rem;
+         justify-content: center;
+         align-items: center;
+         /* text-align: center; */
+         padding-top:5rem;
+         padding-bottom:5rem;
+      }
+
+      
+   </style>
+   <body>
+      
+   <div class="container-fluid"> 
+      <div class="row product">
+
+         
+         <div class="col-md-3">
+            <div>
+               <img class="img-fluid" src="{{product['img_path']}}"/>
+            </div>
+         </div>
+
+         <div class="col-md-3 productInfo">
+
+               <p class="label tag">Product Name</p>
+               <hr/>
+               <h4>{{product['title']}} </h4>
+               <p class="label tag">Price</p>
+               <h3>{{product['price']}}</h3>
+            
+         </div>
+         
+         <div class="col-md-6">
+            <div id="piechart"></div>
+         </div>
+        
+
+      </div>
+      <div class="row comments_section">
+         <div class="col-sm-12">
+            <h4>Comments</h4>
+
+            {% for key,value in comments %}
+            
+
+            {% if value=='positive' %}
+            <label   id="sentimentPos">{{value}}</label>
+            {% else %}
+            <label   id="sentimentNeg">{{value}}</label>
+            {% endif %}
+           
+            
+            <p class="comment">
+               {{key}}
+            </p>
+      
+            
+            <hr/>
+
+            {% endfor %}
+         
+         </div>
+      </div>
+   </div>
+   </body>
+   <script type="text/javascript">
+      // Load google charts
+
+      var negative_count = "{{product['negative_count']}}";
+      var neg = (negative_count / 360 ) * 100
+      var positive_count = "{{product['positive_count']}}";
+      var pos = (positive_count / 360) * 100
+
+
+      google.charts.load('current', {'packages':['corechart']});
+      google.charts.setOnLoadCallback(drawChart);
+      
+      // Draw the chart and set the chart values
+      function drawChart() {
+        var data = google.visualization.arrayToDataTable([
+        ['Negative', 'Positive'],
+        ['Positive', pos],
+        ['Negative', neg]
+        
+      ]);
+      
+        // Optional; add a title and set the width and height of the chart
+        var options = {
+           'title':'Comment Sentiments', 'width':500, 'height':300,
+           'is3D':true,
+           'colors':["#50C878","#D61A3c"],
+           'fontSize' : 16
+           
+           
+           };
+      
+        // Display the chart inside the <div> element with id="piechart"
+        var chart = new google.visualization.PieChart(document.getElementById('piechart'));
+        chart.draw(data, options);
+      }
+      </script>
+</html>
